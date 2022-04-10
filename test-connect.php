@@ -1,8 +1,8 @@
-<?php $title = "Page Title Here";
+<?php $title = "Database Connection Test"
 	include_once ("header.html"); // HTML header file
 	 ?> 
 
-			<h2>Test Connect Result</h2>
+			<h2>Database Connection Test Result</h2>
 
 			<?php
 			require '../connections/readonly_mysql_connect.php'; // Connect to the database using read only permission script in readonly_mysql_connect.php. "connections" dir is one level above domain.com html dir.
