@@ -1,8 +1,8 @@
 <!--
-	Modified by: Route One Studio
-	Modifier URL: http://www.routeonestudio.com
 	Original Author: W3layouts
 	Original Author URL: http://w3layouts.com
+	Modified by: Route One Studio
+	Modifier URL: http://www.routeonestudio.com
 	License: Creative Commons Attribution 3.0 Unported
 	License URL: http://creativecommons.org/licenses/by/3.0/
 -->

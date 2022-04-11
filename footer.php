@@ -61,8 +61,6 @@
 			</script>
 		<!-- //Smooth-Scrolling-JavaScript -->
 	<!-- //Custom-JavaScript-File-Links -->
-Modified Layout <a href="http://www.routeonestudio.com">RouteOneStudio.com</a><br />
-Original Layout <a href="http://www.w3layouts.com">w3layouts.com</a><br />
 </body>
 <!-- //Body -->
 </html>
