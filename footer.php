@@ -6,8 +6,12 @@
 			<div class="col-md-4 col-sm-4 skills">
 				<div id="about-us" class="parallax">
 				<div style="border-left:1px solid #000000;border-bottom:1px solid #000000;border-right:1px solid #000000;">
-					<?php	include_once ("side_bar.php"); ?>
-					<?php	include_once ("search.php"); ?>
+					<?php	
+						include_once ("side_bar.php"); // Upper right side bar section of web page 
+						?>
+					<?php	
+						include_once ("search.php"); // Lower right side bar drop down search menu
+						?>
 					<br />
 				</div>
 				<br />
@@ -18,7 +22,7 @@
 		</div>
 	</div>
 	<!-- //Content -->
-	<!-- Copyright & Contact -->
+	<!-- Lower Menu, Copyright & Contact -->
 	<div class="copyright">
 		<p style="padding:20px"><a href="page1.php">Page 1</a> | <a href="page2.php">Page 2</a> | <a href="page3.php">Page 3</a> | <a  href="">Page 4</a> | <a href="index.php">HOME</a>
 		</p>
@@ -28,10 +32,12 @@
 		</p>
 		<p>&copy; 2022 YourDomain.com	
 	</div>
-	<!-- //Copyright -->
+	<!-- //Lower Menu, Copyright & Contact -->
 	<!-- Custom-JavaScript-File-Links -->
-		<!-- Supportive-JavaScript --> 			 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
-		<!-- Necessary-JS-File-For-Bootstrap --> <script type="text/javascript" src="js/bootstrap.min.js"></script>
+		<!-- Supportive-JavaScript --> 	
+			<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+		<!-- Necessary-JS-File-For-Bootstrap --> 
+			<script type="text/javascript" src="js/bootstrap.min.js"></script>
 		<!-- Sliding-Menu-JavaScript -->
 			<script src="js/ytmenu.js"></script>
 		<!-- //Sliding-Menu-JavaScript -->
