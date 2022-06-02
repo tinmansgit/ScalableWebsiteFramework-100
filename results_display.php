@@ -1,6 +1,8 @@
 <?php
 while ($row = $result->fetch())
 	{ echo 
+	// Html layout for results display
+	
 	  "<table style=\"font-size:18px;margin:0px;padding:1px;width:100%;border:1px solid #000000;\">
   		<tr>
   		<td style=\"background-color:#228B22;color:#FFFFFF;text-align:left;border:0px;padding:5px;border-bottom:1px solid #000000;\"><strong>".$row['field1']."</strong></td>
@@ -23,5 +25,6 @@ while ($row = $result->fetch())
 		<td style=\"text-align:left;border:0px;padding:1px;padding-left:10px;\"><a href=\"http://".$row['url_field']."\" target=\"_blank\">Website</a></td>
 		</tr>";	
   		echo "</table><br />";
+  		
   		}		
 ?>

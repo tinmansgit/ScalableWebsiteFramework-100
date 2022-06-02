@@ -1,6 +1,7 @@
 <nav class="dr-menu">
 	<div class="dr-trigger"><span class="dr-icon dr-icon-menu">MENU</span></div>
 	<ul>
+		<!-- Menu link items. Add or subrtract as needed. -->
 		<li><a class="scroll" href="page1.php">PAGE 1</a></li>
 		<li><a class="scroll" href="page2.php">PAGE 2</a></li>
 		<li><a class="scroll" href="page3.php">PAGE 3</a></li>

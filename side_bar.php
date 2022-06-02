@@ -1,3 +1,5 @@
+<!-- Upper right side bar -->
+
 <h3>Side Bar</h3>
 	<br />
 	<p>

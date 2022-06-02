@@ -10,12 +10,12 @@
 			try {
 				$pdo = new PDO("mysql:host=$host;dbname=$db;charset=UTF8", $user, $pass);
 				$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-				echo "Connected successfully";
+				echo "Connected successfully"; // Successfull connection to database message
 			}
 			
 			catch(PDOException $e)
 			{
-			    echo "Connection failed: " . $e->getMessage();
+			    echo "Connection failed: " . $e->getMessage(); // Error message if connection to database fails
 			}
 
 			?>
